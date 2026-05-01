@@ -16,4 +16,6 @@
 4. **Evaluates** with confusion matrix → **89.11% accuracy**
 
 ## Key Results
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix]
+
+<img width="298" height="118" alt="Picture1" src="https://github.com/user-attachments/assets/b6249454-1d21-4608-97ae-490abbc1723c" />
